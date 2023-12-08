@@ -1,0 +1,23 @@
+.navbar-container{
+    padding: 25px 0;
+    box-shadow: 0 0 8px 0 #000;
+}
+
+.nav-right-part{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-right-part{
+    font-size: 18px;
+}
+
+.nav-right-part p{
+    margin-left: 4px;
+}
+
+.nav-right-part svg{
+    font-size: 24px;
+}
